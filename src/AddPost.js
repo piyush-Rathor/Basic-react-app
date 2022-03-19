@@ -46,7 +46,7 @@ const Post = () => {
                 onChange={(e) => setMessage(e.target.value)}
               ></textarea>
             </div>
-            <button type="submit">Submit</button>
+            <button type="submit" className="btn btn-outline-primary">Submit</button>
           </form>
         </div>
       </div>
