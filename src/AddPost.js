@@ -28,7 +28,7 @@ const Post = () => {
                 type="text"
                 className="form-control"
                 id="exampleFormControlInput1"
-                placeholder="Gorab"
+                placeholder="Gaurav"
                 onChange={(e) => setName(e.target.value)}
               />
             </div>
